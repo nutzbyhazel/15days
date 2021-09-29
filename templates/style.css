@@ -1,0 +1,95 @@
+
+/* zone.html 관련 css입니다. */
+
+.header {
+    height: 60px;
+    background-color: aqua;
+}
+
+.zone {
+    margin: auto;
+    width: 900px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.zone-select {
+    background-color: gold;
+    width: fit-content;
+    margin: auto;
+    padding: 100px;
+}
+
+.zone-result {
+    margin: auto;
+    width: 900px;
+    padding-top: 50px;
+    padding-bottom: 100px;
+}
+
+.card {
+    background-color: aqua;
+    border: 1px solid black;
+    border-radius: 10;
+    display: inline-block;
+    width: 400px;
+    
+}
+
+.img {
+    float: left;
+    padding-right: 30px;
+    width: 200px;
+}
+
+.img-src {
+    background-image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnDGi73B2HUUVLZMhSYQ2wOUOtaGKtswmFDvoYTMJrVtzZ4heo&s";
+    background-size: cover;
+    background-position: center;
+}
+
+.info {
+    float: left;
+    margin: 24px 16px 24px 24px;
+}
+
+#go_home {
+
+}
+
+
+/* detail.html 관련 css입니다. */
+
+.detail-result {
+    margin: auto;
+    width: 900px;
+    padding-top: 50px;
+    padding-bottom: 100px;
+}
+
+.detail {
+    background-color: aqua;
+    border: 1px solid black;
+    border-radius: 10;
+    display: inline-block;
+    width: 400px;
+    
+}
+
+.detail-img {
+    float: left;
+    padding-right: 30px;
+    width: 450px;
+    background-color: blueviolet;
+}
+
+.img-src {
+    background-image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnDGi73B2HUUVLZMhSYQ2wOUOtaGKtswmFDvoYTMJrVtzZ4heo&s";
+    background-size: cover;
+    background-position: center;
+}
+
+.detail-info {
+    float: left;
+    margin: 24px 16px 24px 24px;
+}
